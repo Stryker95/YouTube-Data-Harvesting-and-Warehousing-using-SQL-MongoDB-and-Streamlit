@@ -603,7 +603,7 @@ elif show_table=="COMMENTS":
 
 mydb=psycopg2.connect(host="localhost",
                 user="postgres",
-                password="Sanchit@1995",
+                password="************",
                 database="youtube_data",
                 port="5432")
 cursor=mydb.cursor()
